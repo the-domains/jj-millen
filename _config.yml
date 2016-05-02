@@ -1,0 +1,28 @@
+name: JJ MILLEN
+favicon: null
+layout_spectrum: 0.5329423029907048
+typography_spectrum: 0.8892135582864285
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5295865763910115
+  lightness: 0.41938664694316685
+  saturation: 0.4329347915481776
+  rhythmicContrast: 0.7055928148329258
+purpose: []
