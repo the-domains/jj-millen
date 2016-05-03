@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JJ MILLEN]]></title>
         <description><![CDATA[JJ MILLEN]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jj-millen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 09:57:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 07:46:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jj-millen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A video about Trickhand, Holland's biggest YouTube magic channel.</p>]]></description>
+            <link>https://thegrid.ai/jj-millen/a-video-about-trickhand-hollands-biggest-youtube-magic-cha/index.html</link>
+            <guid isPermaLink="false">7d603ce5-2cb1-4b0d-8626-0b7e9a4a2cb9</guid>
+            <pubDate>Tue, 03 May 2016 07:46:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bd3ae04-82e3-4af8-ac7c-53efbf51f1b2.jpg">]]></description>
-            <link>undefinedhi-im-jj-and-i-make-videos/index.html</link>
+            <link>https://thegrid.ai/jj-millen/hi-im-jj-and-i-make-videos/index.html</link>
             <guid isPermaLink="false">c79736c4-f076-499b-b305-ce967b0819d9</guid>
             <pubDate>Mon, 02 May 2016 09:57:20 GMT</pubDate>
         </item>
